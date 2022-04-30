@@ -1,0 +1,21 @@
+body {
+	background-image: url(stone.jpg);
+	background-size: cover;
+}
+
+h2 {
+	color:  #4B688B;
+	text-align: center;
+	border: 5px solid #748BA7;
+	cursor: pointer;
+}
+
+p {
+	color: #051C38;
+	text-align: right;
+}
+
+li {
+	list-style: none;
+	display: inline-block;
+}

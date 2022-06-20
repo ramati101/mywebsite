@@ -13,9 +13,25 @@ h2 {
 p {
 	color: #051C38;
 	text-align: right;
+	line-height: 20px;
+	font-size: 110%;
+	font-family: 'Suez One', serif;
+}
+
+img {
+	float: left;
+}
+
+footer{
+	clear: both;
+	text-align: center;
 }
 
 li {
 	list-style: none;
 	display: inline-block;
+}
+
+toast {
+	opacity: 0;
 }

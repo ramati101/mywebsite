@@ -32,6 +32,6 @@ li {
 	display: inline-block;
 }
 
-toast {
+toast-header {
 	display: flex;
 }

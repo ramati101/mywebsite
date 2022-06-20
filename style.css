@@ -31,7 +31,3 @@ li {
 	list-style: none;
 	display: inline-block;
 }
-
-toast-header {
-	display: flex;
-}

@@ -33,5 +33,5 @@ li {
 }
 
 toast {
-	opacity: 0;
+	display: flex;
 }
